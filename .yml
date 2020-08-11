@@ -1,0 +1,2 @@
+- name: Webhook Action
+  uses: joelwmale/webhook-action@1.0.0
